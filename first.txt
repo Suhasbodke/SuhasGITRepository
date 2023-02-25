@@ -4,3 +4,5 @@ This is first git file.
 Chnage in first file
 
 adding line for remote repository
+
+check status
